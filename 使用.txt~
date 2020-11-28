@@ -1,0 +1,5 @@
+need install latex:sudo apt-get install texlive-latex-extra texlive-fonts-recommended dvipng
+
+将results文件夹里放一下两个文件
+	stamped_groundtruth.txt: groundtruth poses with timestamps
+	stamped_traj_estimate.txt: estimated poses with timestamps
